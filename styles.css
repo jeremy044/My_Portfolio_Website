@@ -377,4 +377,8 @@ button {
     gap: 1.5rem;
   }
   }
+  
+  .b, strong {
+  font-weight: 700;
+}
 }
